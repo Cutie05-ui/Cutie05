@@ -19,6 +19,11 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
+#EXTINF:-1 group-title="Converge 2",KAPAMILYA HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
+http://136.239.173.10:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=tRzTOpmGnFQO%2BLPz%2BYdiO1tIO5t7kXc%2B5TWDqBRKE%2FYw9hLZ8J1ElZC%2FWWIT6WZOqvjJr%2FpQ%2FQS4GeriEFi9sg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1752071398378&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=70L2D05C8F5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820251218173221586683&ispcode=55
 
 #EXTINF:-1 group-title="Shakzz",ALL TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1048,7 +1053,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Wi
 ########## Converge2 ##########
 
 
-#EXTINF:-1 group-title="Converge 2",KAPAMILYA SD
+#EXTINF:-1 group-title="Converge 2",KAPAMILYA HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/ 
