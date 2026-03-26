@@ -2230,66 +2230,6 @@ http://xxip25.top:8080/98333898/98333898/125637
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Adventure Time" tvg-logo="" group-title="CARTOONS AND ANIMATIONS",24/7 Adventure Time
 
 
-
-
-########## MOVIES ############
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Titanic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00162462ee76f876e8020a21d75d6c6f:ac0b492042d189c221921b266a6592c1
-https://g003-vod-us-cmaf-prd-cf.cdn...19639923269_7c64_01/mpeg_cenc/master_cmaf.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR5QpP7AHT91oLNzml1vFLH6ULG5fYvwuvrHwak0STvIN03hPwT9iQsYs&s=10",SPY x Family: Code White (Tagalog Dub | 720p)
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-#KODIPROP:inputstream.adaptive.license_type=none
-https://pixeldrain.com/api/file/SvGYx4fs
-
-#EXTINF:-1 tvg-id="5002:0:19:112F8:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/oumprkO9bThExP8NwxBIBnvBu2v1-200x300.jpg" 
-group-title="Movies", The Life of Chuck (2025)
-http://s1.gmtcloud.site/video/moviess/TheLifeofChuck2024.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:112E7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/svXVRoRSu6zzFtCzkRsjZS7Lqpd1-200x300.jpg" group-title="Movies",Nobody 2 (2025)
-http://s1.gmtcloud.site/video/moviess/Nobody.2.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:10CB0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/9qQjd8Af0G7UmteRHruihS1lBZy1-200x300.jpg" group-title="Movies",The Naked Gun  (2025)
-http://s1.gmtcloud.site/video/moviess/The.Naked.Gun.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:112CF:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/waQoVqRSbttoWQYeWBtR8mAJfvZ1-200x300.jpg" group-title="Movies",Bambi: The Reckoning (2025)
-http://s1.gmtcloud.site/video/moviess/BambiTheReckoning.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:10D12:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2024/08/cdPCTAay6GR32vb2snhIOhozDCd1-200x300.jpg" group-title="Movies",The Home (2025)
-http://s1.gmtcloud.site/video/moviess/The.Home.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1122B:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/pp6Rg9Ls2g7EaLhJriHx1gI99h1-200x300.jpg" group-title="Movies",Love Untangled (2025)
-http://s1.gmtcloud.site/video/moviess/Love.Untangled.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111CE:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jSG2mg1998DUAam6X9EA6SeJmqD1-200x300.jpg" group-title="Movies", A Line of Fire (2025)
-http://s1.gmtcloud.site/video/moviess/A%20Line%20Of%20Fire%202025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111C7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/uoBrXKe1qE2wFXOw71GuiIXETYV1-200x300.jpg" group-title="Movies", She Rides Shotgun (2025)
-http://s1.gmtcloud.site/video/moviess/She.Rides.Shotgun.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111C0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jukxj88V6GmpkJWn6PjiKodxa7A1-200x300.jpg" group-title="Movies", Werewolf Game (2025)
-http://s1.gmtcloud.site/video/moviess/Werewolf.Game.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111BC:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/d3T9jjdLjnhMzuFvmWImlVKiIrv1-200x300.jpg" group-title="Movies", Fantasy Football Ruined Our Lives (2025)
-http://s1.gmtcloud.site/video/moviess/Fantasy.Football.Ruined.Our.Lives.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1110E:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8FP2ObEGIiQYQCf83gL4ZVzwZF81-200x300.jpg" group-title="Movies",I Know What You Did Last Summer (2025)
-http://s1.gmtcloud.site/video/moviess/I.Know.What.You.Did.Last.Summer.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1116F:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/qiZqJaq7OQ5QGV4F71JvQcR8p3T1-200x300.jpg" group-title="Movies", The Thursday Murder Club (2025)
-http://s1.gmtcloud.site/video/moviess/The%20Thursday%20Murder%20Club%202025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:11103:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8cAXLYDmn0POhjqzTHeT6rJMUVc1-200x300.jpg" group-title="Movies", El secreto del orfebre (2025)
-http://s1.gmtcloud.site/video/moviess/The.Goldsmiths.Secret.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:110E6:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/m3qJWpGzuimIjNnWvibT7L5R1Dd1-200x300.jpg" group-title="Movies", Red Sonja (2025)
-http://s1.gmtcloud.site/video/moviess/RedSonja.mp4?id=0
-
-#EXTINF:-1 tvg-id="" tvg-name="And the Breadwinner Is..." group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZV5jBqOfbRS__zipW7kZhZgP3PA5nEOAXHmWV4k6pz-gmmAEa4WeuzWY&s=10",And the Breadwinner Is... (1080p)
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-#KODIPROP:inputstream.adaptive.license_type=none
-https://pixeldrain.com/api/file/73hnsfQ1
-
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",Kpop Demon Hunters (Tagalog Dub | 1080p)
-#KODIPROP:inputstream.adaptive.manifest_type=mp4
-#KODIPROP:inputstream.adaptive.license_type=none
-https://pixeldrain.com/u/EzwjBkSb
-
-#EXTINF:-1 tvg-id="dbz-bog" tvg-name="Dragon Ball Z: Battle of Gods" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVZJn21VO6PpB0ngI8W5qMow70wBOrOk8y0DlrFAFGN051NvcmrgrAFj522nFr2GT11fGkpaC0v9vkbFOc7km-lmhRMwjWGWtZbfFGg" group-title="Movies", Dragon Ball Z: Battle of Gods
-https://series.shakzz.workers.dev/?id=1HdNzQ__MueYep_vtVCV8mArG5VMedGgb
-
 ####### ONE PUNCH MAN ########
 
 #EXTM3U
@@ -2450,6 +2390,81 @@ https://series.shakzz.workers.dev/?id=1GwJEkU53MU032YCiP-NlKDZZ0J-0mEac
 https://series.shakzz.workers.dev/?id=1EGDy6dtNO6M3Nx59Sc-jeO7YP1nOIZF6
 
 
+####### JUJUTSU KAISEN ########
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s"
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 1
+https://series.shakzz.workers.dev/?id=1MqXmWHDwaM839JKKgEJ9Lfxt8Na7Tq7A
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 2
+https://series.shakzz.workers.dev/?id=16WAj5skJcMF9Sk58YPF2k-iDFYlzZGip
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 3
+https://series.shakzz.workers.dev/?id=1g8SzR5WTTv3bEY7D5jkcyVA-14kFbyZP
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 4
+https://series.shakzz.workers.dev/?id=1QsBmC9UbYUyKT-SEzGCsGx-vduYVtgvo
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 5
+https://series.shakzz.workers.dev/?id=1IPoCmFf4f_5JheMgSaf9lwoXGwqqqFz3
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 6
+https://series.shakzz.workers.dev/?id=1J-0g222Y40UbP2kUOQpcM8U_bRqSidhG
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 7
+https://series.shakzz.workers.dev/?id=1ZpPpDPZXQFrfi7SqvIqC3ejjFZg2fAyM
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 8
+https://series.shakzz.workers.dev/?id=1BL2ZUr9FzG9MgFAq2Rk_0m_KDKQnUJXx
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 9
+https://series.shakzz.workers.dev/?id=1D0ccpp2FDssQEGYShbpWsCoMaAngtKl5
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 10
+https://series.shakzz.workers.dev/?id=1Un6urHblUyrHvflVYASm-Z8OIASPw2rf
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 11
+https://series.shakzz.workers.dev/?id=1jBxyk7t8nDfNXfd8z0eMmAHIO2VTflxh
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 12
+https://series.shakzz.workers.dev/?id=1uE9xtGIDdiW66YXwWyRGlZvCJDraOHCw
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 13
+https://series.shakzz.workers.dev/?id=1_7JR6UPJ2v6aLHooeyFviOv6nm9GfPB0
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 14
+https://series.shakzz.workers.dev/?id=1plZu8-VRQ38uOAYLkcTEAVwSMBfbtt6p
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 15
+https://series.shakzz.workers.dev/?id=13ik1Xe_o6Wnrk-iu7FMCH01bDYl1ZmO_
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 16
+https://series.shakzz.workers.dev/?id=1Sgtd_d1vIzZJJxTXBqerIx_5HE-Eu2Oi
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 17
+https://series.shakzz.workers.dev/?id=11qwrRdj0lNhGz3-aNX3pgnaSPpewjzM1
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 18
+https://series.shakzz.workers.dev/?id=1tDHjCmfsiaYim5CCtEJJupQdpupByeQV
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 19" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 19
+https://series.shakzz.workers.dev/?id=1O6qcWIcl5zP6hwb0hO1vRszkkDoboSay
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 20
+https://series.shakzz.workers.dev/?id=1DqjHleJSJzixKigbXypVIgf_WKZL38VM
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 21
+https://series.shakzz.workers.dev/?id=1O82mA68p0nBjV-gJOGZPmmoL5IVDELiF
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 22
+https://series.shakzz.workers.dev/?id=1nuutzJUv2rMdDKoescP6Bq_iRAZ-I0_N
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 23
+https://series.shakzz.workers.dev/?id=1ggiV_aq6Bky-W1DHjRIn5FwV3NpXM15o
+
+#EXTINF:-1 tvg-id="" tvg-name="Season 1 Ep 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRjuvmcnTukhzjYjeLI3j4yTNdUa_MUW4oJn5Fcge_jQ&s" group-title="Jujutsu Kaisen", Jujutsu Kaisen Season 1 Ep 24
+https://series.shakzz.workers.dev/?id=1260OmmY6K32-I-AEGFa1Z8W3aAU_DCBU
 
 
 ########## PILIPINAS LIVE ##########
