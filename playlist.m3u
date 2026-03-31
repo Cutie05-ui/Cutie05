@@ -578,6 +578,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
+
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
 
 #--------------------------------------------
@@ -1046,12 +1047,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
 https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cartoonnet-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Cignal - Kids",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonnet-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="celestial-movie-pinoy" tvg-logo="" group-title="Cignal - Movies",Celestial Movie Pinoy
+#EXTINF:-1 tvg-id="celestial-movie-pinoy" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Celestial Movie Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
 https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
@@ -1061,7 +1062,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 
-#EXTINF:-1 tvg-id="cinemax-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cinemax_logo.svg/1280px-Cinemax_logo.svg.png" group-title="Cignal - Movies",Cinemax HD
+#EXTINF:-1 tvg-id="cinemax-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cinemax_logo.svg/1280px-Cinemax_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
@@ -1076,7 +1077,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6c9e1f2a7b4d4c8a8d33f5b1a0c7e944:3d2a1b8c7e4f6d5a9c0b1e2f7a3d8c5b
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-id="deped-channel-cignal" tvg-logo="" group-title="Cignal - Educational",DepEd Channel
+#EXTINF:-1 tvg-id="deped-channel-cignal" tvg-logo="" group-title="Cignal (GEOBLOCKED)",DepEd Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
 https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
@@ -1086,12 +1087,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-id="dreamworks-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="Cignal - Kids",DreamWorks HD
+#EXTINF:-1 tvg-id="dreamworks-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="Cignal - Kids",DreamWorks Tagalized
+#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",DreamWorks Tagalized
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
@@ -1111,22 +1112,22 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
 https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal - Movies",HBO Family HD
+#EXTINF:-1 tvg-id="hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal (GEOBLOCKED)",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo-hd-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal - Movies",HBO HD
+#EXTINF:-1 tvg-id="hbo-hd-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal (GEOBLOCKED)",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo-hits-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal - Movies",HBO Hits HD
+#EXTINF:-1 tvg-id="hbo-hits-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal (GEOBLOCKED)",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo-signature-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal - Movies",HBO Signature HD
+#EXTINF:-1 tvg-id="hbo-signature-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cignal (GEOBLOCKED)",HBO Signature HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
@@ -1146,7 +1147,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits-movies" tvg-logo="" group-title="Cignal - Movies",Hits Movies
+#EXTINF:-1 tvg-id="hits-movies" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8a5f1e7b9d4c6a9e55f1d7b2a8c360:c9f622dff27e9e1c1f78617ba3b81a62
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_hitsmovies/default/index.mpd
@@ -1171,7 +1172,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9a7c2d1f4e8b4a6d8f301b5c9e7d2a44:ca88469cabc18aa33d1f2e46a6efb4f7
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="moonbug-kids" tvg-logo="" group-title="Cignal - Kids",Moonbug Kids
+#EXTINF:-1 tvg-id="moonbug-kids" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
@@ -1181,12 +1182,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
 
-#EXTINF:-1 tvg-id="nickelodeon-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png" group-title="Cignal - Kids",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nickelodeon_2023_logo.svg/1280px-Nickelodeon_2023_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Cignal - Kids",Nick Jr.
+#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Cignal (GEOBLOCKED)",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
@@ -1201,7 +1202,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pbo_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a8b2d6f14c9e4d7a8f552c1e9b7d6a30:b61a33a4281e7c8e68b24b9af466f7b4
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 
-#EXTINF:-1 tvg-id="tapmovies-hd" tvg-logo="" group-title="Cignal - Movies",TAP Movies HD
+#EXTINF:-1 tvg-id="tapmovies-hd" tvg-logo="" group-title="Cignal (GEOBLOCKED)",TAP Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
@@ -1231,7 +1232,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587//0-16x9.jpg?width=412" group-title="Cignal - Movies",TVN Movies Pinoy
+#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587//0-16x9.jpg?width=412" group-title="Cignal (GEOBLOCKED)",TVN Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
@@ -1250,6 +1251,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f2a9c6d1e5b4c8a8d10a2b7e1c9f344:ae3d135d5ddd9e8f3a7bbfbfae0e40d1
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
+
 
 **********Converge-TV**********
 
@@ -2904,6 +2906,195 @@ http://xxip25.top:8080/98333898/98333898/125637
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOONEY TUNES" tvg-logo="" group-title="CARTOONS AND ANIMATIONS",24/7 LOONEY TUNES
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Adventure Time" tvg-logo="" group-title="CARTOONS AND ANIMATIONS",24/7 Adventure Time
+
+
+####### SAMSUNG TV PLUS ########
+
+
+#EXTINF:-1,4000 Blast Movies 
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1,4001 Premier Sports  
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1,4002 Blast X 
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1,4020 Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4022 Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1,4023 Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1,4024 Leadstory Breaking News 
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4025 Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4027 France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4030 Masterchef
+https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
+#EXTINF:-1,4033 Hells Kitchen
+https://amg00654-itv-amg00654c1-samsung-th-9581.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4036 World of Love Island 
+https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4050 The Hotel Inspector 
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4055 Antiques Road Trip
+https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4060 Eggheads 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-eggheads-samsunguk/playlist.m3u8
+#EXTINF:-1,4061 Real Blast (check?)
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
+#EXTINF:-1,4064 KCM 
+https://amg02159-amg02159c10-amgplt0352.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1,4066 Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1,4067 Animax
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
+#EXTINF:-1,4070 Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+#EXTINF:-1,4071 Zee One
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4073 Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+#EXTINF:-1,4075 Highway Thru Hell 
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+#EXTINF:-1,4076 The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+#EXTINF:-1,4078 Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+#EXTINF:-1,4079 The Graham Norton Show
+https://amg00654-itv-amg00654c35-samsung-th-9580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4081 Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+#EXTINF:-1,4083 Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+#EXTINF:-1,4085 River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4087 Unsolved Mysterys      
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_channelId=88258000
+#EXTINF:-1,4088 Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+#EXTINF:-1,4089 Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+#EXTINF:-1,4090 Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4095 Dr G Medical Examiner  
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258001/hls/master.m3u8?ads.xumo_channelId=88258001
+#EXTINF:-1,4096 Hot Ones               
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258002/hls/master.m3u8?ads.xumo_channelId=88258002
+#EXTINF:-1,4097 Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4098 Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4099 Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4109 Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4115 K-Content by CJENM  (IN) Substitute
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN49000103E
+#EXTINF:-1,4116 K-Food by CJENM (IN) Substitute
+https://cc-nwusx3jrgn2t8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN490000951
+#EXTINF:-1,4130 Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4140 History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4145 Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4155 Dude Perfect
+https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4156 Evolution Earth
+https://amg26277-amg26277c6-samsung-ph-11091.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4160 Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4161 Wild Stuff
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4171 Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+#EXTINF:-1,4181 Zee Sine
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1,4185 Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4186 Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4191 Action Hollywood Movies
+https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,RCM Movies
+https://amg01076-amg01076c11-samsung-ph-5322.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,VILN NOT listed
+https://amg02688-amg02688c1-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c1-amgplt0352/playlist.m3u8
+#EXTINF:-1,Inspire NOT listed
+https://amg02688-amg02688c2-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c2-amgplt0352/playlist.m3u8
+#EXTINF:-1,Apartment NOT listed
+https://amg02688-amg02688c3-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c3-amgplt0352/playlist.m3u8
+#EXTINF:-1,4430 InTravel
+https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,InTrouble NOT listed
+https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4505 Duck Dynasty
+https://amg26277-amg26277c2-samsung-ph-11103.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4507 Dog the Bounty Hunter
+https://amg26277-amg26277c13-samsung-ph-11095.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4513 Bring IT!
+https://amg26277-amg26277c14-samsung-ph-11099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4515 Little Women LA
+https://amg26277-amg26277c4-samsung-ph-11088.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4600 Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1,4603 Premier Sports 2 
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1,4604 Fight Plus
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+#EXTINF:-1,4621 Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1,4625 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1,4631 Unbeaten
+https://amg00721-amg00721c6-samsung-ph-7082.playouts.now.amagi.tv/playlist/amg00721-inverleigh-unbtn3row-samsungph/playlist.m3u8
+#EXTINF:-1,4635 Wedo TV Sports
+https://amg00735-amg00735c45-samsung-au-11188.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4665 Trace Sports Stars
+https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4850 Now 70s
+https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4851 Now 80s
+https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4852 Now Rock
+https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4856 Kpop by CJENM (IN) Substitute
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN3800006RD
+#EXTINF:-1,4857 @Kmusic (IN) Substitute
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%40k-music&channel_id=newid_277&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8047e75c-de975cb9-46a9680e-d55eeb66&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4900011OU
+#EXTINF:-1,4860 Trace Urban
+https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4871 Stingray Pop Adult     
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258008/hls/master.m3u8?ads.xumo_channelId=88258008
+#EXTINF:-1,4872 Stingray 2000s         
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258009/hls/master.m3u8?ads.xumo_channelId=88258009
+#EXTINF:-1,4873 Stingray Greatest Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,4874 Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,4875 Stingray SPA
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,4876 Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,4877 Stingray Hit list      
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
+#EXTINF:-1,4879 Stingray Todays K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,4880 Time2Rlx 
+https://amg00735-amg00735c51-samsung-au-11187.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4930 Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,4933 Strawberry Shortcake   
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258006/hls/master.m3u8?ads.xumo_channelId=88258006
+#EXTINF:-1,4934 Sonic the Hedgehog                
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258004/hls/master.m3u8?ads.xumo_channelId=88258004
+#EXTINF:-1,4935 Super Mario         
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258005/hls/master.m3u8?ads.xumo_channelId=88258005
+#EXTINF:-1,4936 Teletubbies            
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258003/hls/master.m3u8?ads.xumo_channelId=88258003
+#EXTINF:-1,4938 Pop 
+https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
 
 
 ####### ONE PUNCH MAN ########
