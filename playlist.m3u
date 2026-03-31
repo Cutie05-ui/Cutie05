@@ -992,57 +992,57 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 # CIGNAL PLAY COMPLETE - Added 2026
 #--------------------------------------------
 
-#EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ABC_Australia_logo.svg/1280px-ABC_Australia_logo.svg.png" group-title="Cignal - News",ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ABC_Australia_logo.svg/1280px-ABC_Australia_logo.svg.png" group-title="Cignal (GEOBLOCKED)",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
-#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_MediaNetwork_Logo.svg/1280px-Al_Jazeera_MediaNetwork_Logo.svg.png" group-title="Cignal - News",Al Jazeera English
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_MediaNetwork_Logo.svg/1280px-Al_Jazeera_MediaNetwork_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Al Jazeera English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
 
-#EXTINF:-1 tvg-id="animalplanet-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Animal_Planet_Logo.svg/1280px-Animal_Planet_Logo.svg.png" group-title="Cignal - Documentary",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Animal_Planet_Logo.svg/1280px-Animal_Planet_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="animax-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Cignal - Anime",Animax
+#EXTINF:-1 tvg-id="animax-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e7b9d2c6a4f4d8c9f33b5c1a8d7e260:67336c0c5b24fb4b8caac248dad3c55d
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="arirang-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arirang_TV_Logo.svg/1280px-Arirang_TV_Logo.svg.png" group-title="Cignal - Entertainment",Arirang TV
+#EXTINF:-1 tvg-id="arirang-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arirang_TV_Logo.svg/1280px-Arirang_TV_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Arirang TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
 https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="asianfoodnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Asian_Food_Network_Logo.png/220px-Asian_Food_Network_Logo.png" group-title="Cignal - Entertainment",Asian Food Network
+#EXTINF:-1 tvg-id="asianfoodnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Asian_Food_Network_Logo.png/220px-Asian_Food_Network_Logo.png" group-title="Cignal (GEOBLOCKED)",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="axn-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/AXN_channel_logo.svg/1280px-AXN_channel_logo.svg.png" group-title="Cignal - Entertainment",AXN
+#EXTINF:-1 tvg-id="axn-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/AXN_channel_logo.svg/1280px-AXN_channel_logo.svg.png" group-title="Cignal (GEOBLOCKED)",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="bbcearth-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Earth_2019.svg/1280px-BBC_Earth_2019.svg.png" group-title="Cignal - Documentary",BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Earth_2019.svg/1280px-BBC_Earth_2019.svg.png" group-title="Cignal (GEOBLOCKED)",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBC_World_News_2022.svg/1280px-BBC_World_News_2022.svg.png" group-title="Cignal - News",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBC_World_News_2022.svg/1280px-BBC_World_News_2022.svg.png" group-title="Cignal (GEOBLOCKED)",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="bilyonaryo" tvg-logo="" group-title="Cignal - News",Bilyonaryo Channel
+#EXTINF:-1 tvg-id="bilyonaryo" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Bilyonaryo Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
 
-#EXTINF:-1 tvg-id="bloomberg-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/1280px-Bloomberg_logo.svg.png" group-title="Cignal - News",Bloomberg TV
+#EXTINF:-1 tvg-id="bloomberg-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/1280px-Bloomberg_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Bloomberg TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
 https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
@@ -1057,7 +1057,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
 https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cgtn-english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/China_Global_Television_Network.svg/1280px-China_Global_Television_Network.svg.png" group-title="Cignal - News",CGTN English
+#EXTINF:-1 tvg-id="cgtn-english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/China_Global_Television_Network.svg/1280px-China_Global_Television_Network.svg.png" group-title="Cignal (GEOBLOCKED)",CGTN English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
 https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
@@ -1067,12 +1067,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
 
-#EXTINF:-1 tvg-id="cnn-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="Cignal - News",CNN HD
+#EXTINF:-1 tvg-id="cnn-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="Cignal (GEOBLOCKED)",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Crime_%2B_Investigation_Network_logo.svg/1280px-Crime_%2B_Investigation_Network_logo.svg.png" group-title="Cignal - Documentary",Crime + Investigation
+#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Crime_%2B_Investigation_Network_logo.svg/1280px-Crime_%2B_Investigation_Network_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Crime + Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9e1f2a7b4d4c8a8d33f5b1a0c7e944:3d2a1b8c7e4f6d5a9c0b1e2f7a3d8c5b
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
@@ -1082,7 +1082,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
 https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Discovery_Channel_-_Logo.svg/1280px-Discovery_Channel_-_Logo.svg.png" group-title="Cignal - Documentary",Discovery Channel
+#EXTINF:-1 tvg-id="discovery-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Discovery_Channel_-_Logo.svg/1280px-Discovery_Channel_-_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
@@ -1097,17 +1097,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-id="fashiontv-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FashionTV_logo.svg/1280px-FashionTV_logo.svg.png" group-title="Cignal - Entertainment",FashionTV HD
+#EXTINF:-1 tvg-id="fashiontv-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FashionTV_logo.svg/1280px-FashionTV_logo.svg.png" group-title="Cignal (GEOBLOCKED)",FashionTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d7c1f2a6b4e4a8d8f33c1e5b7d2a960:3a18c535c52db7c79823f59036a9d195
 https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="foodnetwork-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Food_Network_Logo.svg/1280px-Food_Network_Logo.svg.png" group-title="Cignal - Entertainment",Food Network HD
+#EXTINF:-1 tvg-id="foodnetwork-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Food_Network_Logo.svg/1280px-Food_Network_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/France_24_logo.svg/1280px-France_24_logo.svg.png" group-title="Cignal - News",France 24
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/France_24_logo.svg/1280px-France_24_logo.svg.png" group-title="Cignal (GEOBLOCKED)",France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
 https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
@@ -1132,17 +1132,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/HGTV_Logo.svg/1280px-HGTV_Logo.svg.png" group-title="Cignal - Entertainment",HGTV HD
+#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/HGTV_Logo.svg/1280px-HGTV_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="history-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/History_channel_logo.svg/1280px-History_channel_logo.svg.png" group-title="Cignal - Documentary",History HD
+#EXTINF:-1 tvg-id="history-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/History_channel_logo.svg/1280px-History_channel_logo.svg.png" group-title="Cignal (GEOBLOCKED)",History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a8c7d15b9f4d6a9c101f7e3b2d8a44:397ca914a73b1e00bc94ed9eccf9c258
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hits-hd" tvg-logo="" group-title="Cignal - Entertainment",Hits HD
+#EXTINF:-1 tvg-id="hits-hd" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
@@ -1152,22 +1152,22 @@ https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2c8a5f1e7b9d4c6a9e55f1d7b2a8c360:c9f622dff27e9e1c1f78617ba3b81a62
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_hitsmovies/default/index.mpd
 
-#EXTINF:-1 tvg-id="hitsnow" tvg-logo="" group-title="Cignal - Entertainment",HitsNow
+#EXTINF:-1 tvg-id="hitsnow" tvg-logo="" group-title="Cignal (GEOBLOCKED)",HitsNow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="kix-hd-cignal" tvg-logo="" group-title="Cignal - Entertainment",KIX HD
+#EXTINF:-1 tvg-id="kix-hd-cignal" tvg-logo="" group-title="Cignal (GEOBLOCKED)",KIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
 https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="lifetime-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lifetime_logo.svg/1280px-Lifetime_logo.svg.png" group-title="Cignal - Entertainment",Lifetime
+#EXTINF:-1 tvg-id="lifetime-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lifetime_logo.svg/1280px-Lifetime_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 tvg-id="lotusmacau" tvg-logo="" group-title="Cignal - Entertainment",Lotus Macau
+#EXTINF:-1 tvg-id="lotusmacau" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a7c2d1f4e8b4a6d8f301b5c9e7d2a44:ca88469cabc18aa33d1f2e46a6efb4f7
 https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
@@ -1177,7 +1177,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nhk-japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NHK_World_logo.svg/1280px-NHK_World_logo.svg.png" group-title="Cignal - News",NHK Japan
+#EXTINF:-1 tvg-id="nhk-japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NHK_World_logo.svg/1280px-NHK_World_logo.svg.png" group-title="Cignal (GEOBLOCKED)",NHK Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
@@ -1192,12 +1192,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
 
-#EXTINF:-1 tvg-id="pbo" tvg-logo="" group-title="Cignal - Entertainment",PBO
+#EXTINF:-1 tvg-id="pbo" tvg-logo="" group-title="Cignal (GEOBLOCKED)",PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://ucdn.mediaquest.com.ph/bpk-tv/pbo_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="rockentertainment" tvg-logo="" group-title="Cignal - Entertainment",Rock Entertainment
+#EXTINF:-1 tvg-id="rockentertainment" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8b2d6f14c9e4d7a8f552c1e9b7d6a30:b61a33a4281e7c8e68b24b9af466f7b4
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
@@ -1207,27 +1207,27 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="taptv" tvg-logo="" group-title="Cignal - Entertainment",TAP TV
+#EXTINF:-1 tvg-id="taptv" tvg-logo="" group-title="Cignal (GEOBLOCKED)",TAP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c1e7b9d2f6a4d8c8a55e9d2c7b1a344:e72d21a22e89660ff0ec33627eb4ef35
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_taptv_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="thrill-cignal" tvg-logo="" group-title="Cignal - Entertainment",Thrill
+#EXTINF:-1 tvg-id="thrill-cignal" tvg-logo="" group-title="Cignal (GEOBLOCKED)",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="travelchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Travel_Channel_Logo.svg/1280px-Travel_Channel_Logo.svg.png" group-title="Cignal - Entertainment",Travel Channel
+#EXTINF:-1 tvg-id="travelchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Travel_Channel_Logo.svg/1280px-Travel_Channel_Logo.svg.png" group-title="Cignal (GEOBLOCKED)",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1280px-Logo_TV5_Monde_-_2021.svg.png" group-title="Cignal - Entertainment",TV5 Monde
+#EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1280px-Logo_TV5_Monde_-_2021.svg.png" group-title="Cignal (GEOBLOCKED)",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvmaria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144" group-title="Cignal - Entertainment",TV Maria
+#EXTINF:-1 tvg-id="tvmaria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144" group-title="Cignal (GEOBLOCKED)",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
@@ -1237,17 +1237,17 @@ https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="tvn-premium-hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587//0-16x9.jpg?width=412" group-title="Cignal - Entertainment",TVN Premium HD
+#EXTINF:-1 tvg-id="tvn-premium-hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587//0-16x9.jpg?width=412" group-title="Cignal (GEOBLOCKED)",TVN Premium HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-id="viva-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Viva_Television_logo.png/220px-Viva_Television_logo.png" group-title="Cignal - Entertainment",Viva TV
+#EXTINF:-1 tvg-id="viva-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Viva_Television_logo.png/220px-Viva_Television_logo.png" group-title="Cignal (GEOBLOCKED)",Viva TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://ucdn.mediaquest.com.ph/bpk-tv/viva_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="warnertv-hd-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Warner_TV_logo.svg/1280px-Warner_TV_logo.svg.png" group-title="Cignal - Entertainment",Warner TV HD
+#EXTINF:-1 tvg-id="warnertv-hd-cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Warner_TV_logo.svg/1280px-Warner_TV_logo.svg.png" group-title="Cignal (GEOBLOCKED)",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f2a9c6d1e5b4c8a8d10a2b7e1c9f344:ae3d135d5ddd9e8f3a7bbfbfae0e40d1
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
